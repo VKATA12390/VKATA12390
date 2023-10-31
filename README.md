@@ -3,7 +3,7 @@ VKATA12390/VKATA1239#  GitHub Issues & PRs Templates ([https://github.com/VKATA1
 
 > [GitHub listened](https://github.com/dear-github/dear-github) and now we're able to [create templates for issues and pull requests](https://github.com/blog/2111-issue-and-pull-request-templates).
 
-> This is a curated list of templates that can offer inspiration for your project. An awesome template is one that informs contributors how to proceed in a very detailed or unique way.
+> This is a curated list of templates that can offer inspiration for  project. 
 
 ![Preview](https://cloud.githubusercontent.com/assets/398893/13154626/b670c3ba-d62e-11e5-8d0d-8313abf2a8a7.png)
 
